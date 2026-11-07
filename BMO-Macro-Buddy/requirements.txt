@@ -1,0 +1,7 @@
+# Bounded so a surprise new major version can't silently change how BMO sees or clicks the screen.
+mss>=9,<11
+numpy>=1.24,<3
+opencv-python>=4.8,<6
+pydirectinput>=1.0.4,<2
+pynput>=1.7,<2
+pygetwindow>=0.0.9,<1

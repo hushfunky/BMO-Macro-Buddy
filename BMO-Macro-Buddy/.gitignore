@@ -1,0 +1,26 @@
+# personal / generated files - never share these
+bmo_settings.json
+bmo_stats.json
+bmo_log.txt
+bmo_log.old.txt
+bmo_error.log
+bmo_calc_team.json
+debug/
+__pycache__/
+*.pyc
+
+# optional AI helper: holds your API key - never share
+ai_assist.json
+# learned on this PC, safe to delete
+scale_hints.json
+# temp/quarantine files from safe saving
+*.tmp
+*.bad
+# saved by CHECK SETUP on this PC
+resolution_profile.json
+bmo_history.jsonl
+
+# your own recorded unit placements, walking pictures and spot memory (team-specific)
+placements/*.json
+placements/*.png
+placements/_old/
