@@ -1,4 +1,5 @@
 # BMO Macro Buddy
+💬 **Need help?** Join the Discord: https://discord.gg/QK5Jnk6NSK
 
 An overlay + macro that automates Candy-Kingdom-Defense farming in Roblox
 (Dungeon Train challenges, selectable worlds/acts/Endless modes, Lich raids, custom routines).
